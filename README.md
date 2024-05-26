@@ -1,0 +1,26 @@
+A small work in progress guide to Linux commands and concepts. This guide is intended for beginners who want to learn more about the Linux command line and system administration.
+
+## Table of Contents
+1. [Basic Commands](./content/basic_commands.md)
+2. [Working with files](./content/working_with_files.md)
+3. [File System](./content/filesytem.md)
+4. [File Permissions](./content/file_permissions.md)
+5. [Package Management](./content/package_management.md)
+6. [Data Backup](./content/data_backup.md)
+7. [System Info](./content/system_info.md)
+8. [Swap Memory](./content/swap_memory.md)
+9. [User Envinronment](./content/user_env.md)
+10. [Processes](./content/processes.md)
+11. [Volume Manager Basics](./content/volume_manager.md)
+12. [Advanced Volume Manager](./content/volume_manager_adv.md)
+12. [Networking](./content/basic_networking.md)
+13. [Network File System](./content/nfs.md)
+14. [iSCSI](./content/shared_storage_iscsi.md)
+15. [Security](./content/basic_security.md)
+16. [Text Commands](./content/text_commands.md)
+17. [Bash Programming](./content/bash_programming.md)
+18. [Systemd](./content/systemd.md)
+19. [Virtual Networking](./content/virtual-networking.md)
+20. [Network Namespaces](./content/network-namespaces.md)
+
+Forked from [here](https://github.com/MinhKMA/Linux-Tutorial?tab=readme-ov-file)
